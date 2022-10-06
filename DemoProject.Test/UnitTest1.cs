@@ -12,7 +12,7 @@ namespace DemoProject.Test
         [Test]
         public void Test1()
         {
-            Assert.Pass();#dd
+            Assert.Pass();
         }
     }
 }
